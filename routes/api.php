@@ -17,3 +17,33 @@ use Illuminate\Support\Facades\Route;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+// access codes
+
+// adhkar
+
+// duas
+
+// ayats
+
+// bad habits
+
+// chats
+
+// magicians
+
+// patients
+
+// reactions
+
+// schedules
+
+// symptoms
+
+// therapies
+
+// users
+
+// raqis
+
+// hijama practitioners
